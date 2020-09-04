@@ -2,6 +2,6 @@ package test1
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Println("test1")
 }

@@ -2,6 +2,6 @@ package gomodule1
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Println("main")
 }
